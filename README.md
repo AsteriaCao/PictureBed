@@ -1,2 +1,2 @@
-# My_markdown_pictures
+# PictureBed
 This is my picture bed which stores markdown pictures.
